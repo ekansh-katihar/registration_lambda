@@ -1,0 +1,40 @@
+{
+    "headers": {
+        "x-amzn-tls-version": "TLSv1.2",
+        "x-forwarded-proto": "https",
+        "postman-token": "7b1d0164-f4ac-4eff-93c5-ad32441c5ebf",
+        "x-forwarded-port": "443",
+        "x-forwarded-for": "74.15.56.241",
+        "accept": "*/*",
+        "authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk5YmNiMDY5MzQwYTNmMTQ3NDYyNzk0ZGZlZmE3NWU3OTk2MTM2MzQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3MjEzMTIyMjE2MjUtMnFyOGs0a2doajJvZXQ3ZHNjdHE1dXA5c2JyaGEyZ2cuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3MjEzMTIyMjE2MjUtMnFyOGs0a2doajJvZXQ3ZHNjdHE1dXA5c2JyaGEyZ2cuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDE4MDM3ODgxMjQ4MTkzMTc3MjgiLCJlbWFpbCI6Im1haWwuZWthbnNoQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiR0RzYUVfRXhZYTRHd1BBVlMyMUFYUSIsIm5hbWUiOiJFa2Fuc2ggS2F0aWhhciIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQWNIVHRmdW13QXpmUHBfU3RQRjEwSXdfWktNTjlqajE2c1MyV0NVLVBWUzdCSy04TVU9czk2LWMiLCJnaXZlbl9uYW1lIjoiRWthbnNoIiwiZmFtaWx5X25hbWUiOiJLYXRpaGFyIiwibG9jYWxlIjoiZW4iLCJpYXQiOjE2ODgyMzc2OTgsImV4cCI6MTY4ODI0MTI5OH0.NjzNd-VXxcY960o_Fn9hCP--zNtWxWAESZwFZ8tlVIlUejIqz9QciZvPtqhcfAIJlaASNc1gf-83JhC0qd_sHXgLdqUqQGdHPn7bHk1KghWkR30cJrdkcp8JocDY6WPcMRmN81v8IiWYd6CmFkBeHPwJOUcIQ-bop_yNHRoZvH4PJdvWXkuunaVwU_3ovCNtEQ67qxtVdgZOBQy3AHejQ0M_hY9c8CGnYuJlcqad5lmhzzhJYWs_ON9s2z4XzOrKpdksQyORfaaHDMOgu_G1Lw7Ii_jHdpCAQzgPCzS1JrmM-eXHOLrwdG3mu4fz73NWhH7gLNvOg9H5tAwNII-izQ",
+        "x-amzn-tls-cipher-suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "x-amzn-trace-id": "Root=1-64a0788f-0d989fdc0e8cd78f4a7d24f1",
+        "host": "pqs2e46dm6nq4cjc7nlbtum5fy0mjzpd.lambda-url.us-east-2.on.aws",
+        "cache-control": "no-cache",
+        "accept-encoding": "gzip, deflate, br",
+        "user-agent": "PostmanRuntime/7.32.3"
+    },
+    "isBase64Encoded": false,
+    "rawPath": "/authnz/home",
+    "routeKey": "$default",
+    "requestContext": {
+        "accountId": "anonymous",
+        "timeEpoch": 1688238223149,
+        "routeKey": "$default",
+        "stage": "$default",
+        "domainPrefix": "pqs2e46dm6nq4cjc7nlbtum5fy0mjzpd",
+        "requestId": "f806d288-6531-44ae-93c8-cb6901703be0",
+        "domainName": "pqs2e46dm6nq4cjc7nlbtum5fy0mjzpd.lambda-url.us-east-2.on.aws",
+        "http": {
+            "path": "/authnz/home",
+            "protocol": "HTTP/1.1",
+            "method": "GET",
+            "sourceIp": "74.15.56.241",
+            "userAgent": "PostmanRuntime/7.32.3"
+        },
+        "time": "01/Jul/2023:19:03:43 +0000",
+        "apiId": "pqs2e46dm6nq4cjc7nlbtum5fy0mjzpd"
+    },
+    "version": "2.0",
+    "rawQueryString": ""
+}
