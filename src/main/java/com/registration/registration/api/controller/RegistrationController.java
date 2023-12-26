@@ -31,7 +31,7 @@ public class RegistrationController {
         logger.addHandler(handler);
 	}
 	public Map<String, String> home(Map<String, String> jwt,Map<String, String> map) {
-		logger.log(Level.INFO, "home info ");
+		logger.log(Level.INFO, "home info "+userInfoRepository);
 		
 		Optional<UserInfo> optUser = userInfoRepository.findByPrincipal(jwt.get("principal"));
 		if (optUser.isEmpty()) {
